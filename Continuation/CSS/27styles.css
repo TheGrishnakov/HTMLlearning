@@ -1,0 +1,35 @@
+/* Color properties */
+/* Color background-color */
+#first{
+    color: lightgray;
+    background-color: blue;
+}
+
+#second{
+    color: crimson;
+    background: green;
+}
+
+/* Color names */
+/* VS code gives suggestions, there are 140 names in HTML */
+
+
+/* RGB Red green blue intensity between 0 and 255*/
+
+/* #first{
+    color: rgb(0,255,0);
+    background-color: blue;
+}
+
+#second{
+    color: rgb(0,0,0);
+    background: rgb(255,255,255);
+}
+#third{
+    color: rgb(0,0,255);
+    background: rgb(100,100,100);
+}
+body{
+    background: rgb(200,25,33);
+} */
+
