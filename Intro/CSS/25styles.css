@@ -1,0 +1,36 @@
+/* Last rule and Specificity and Universal selector */
+/* Last rule */
+p{
+    color: blue;
+}
+
+
+/* Specificity */
+/* .red{
+    color: red;
+}
+p{
+    color: green;
+} */
+
+
+/* Universal selector */
+/* selects all elements */
+/* * {
+    color: blue;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+    color: red;
+}

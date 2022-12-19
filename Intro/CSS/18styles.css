@@ -1,0 +1,32 @@
+/* part 1 */
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+p{
+    color: rgb(65, 65, 65);
+}
+
+/* part 2 */
+/* body{
+    color: blue;
+} */
+
+/* h1,
+h2{
+    color: blueviolet;
+} */
+
+/* part 3 id selectors */
+/* IDs NEED TO BE UNIQUE */
+/* #heading{
+    color: greenyellow;
+    background-color: black;
+}
+#footing{
+    color: red;
+    background-color: grey;
+} */
+

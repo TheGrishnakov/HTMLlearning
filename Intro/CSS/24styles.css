@@ -1,0 +1,14 @@
+body{
+    font-family: monospace;
+    line-height: 1.5em;
+    color: red;
+}
+div {
+    color: blue;
+    border: 2px solid black;
+}
+h2{
+    color: green;
+}
+
+/* stuff gets inherited from parent elements unless explicitly overridden */
